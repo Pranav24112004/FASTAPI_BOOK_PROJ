@@ -1,0 +1,47 @@
+books = [
+    {
+        "id": 1,
+        "title": "Think Python",
+        "author": "Allen B. Downey",
+        "publisher": "O'Reilly Media",
+        "published_date": "2021-01-01",
+        "page_count": 1234,
+        "language": "English",
+    },
+    {
+        "id": 2,
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publisher": "No Starch Press",
+        "published_date": "2019-11-12",
+        "page_count": 504,
+        "language": "English",
+    },
+    {
+        "id": 3,
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "publisher": "O'Reilly Media",
+        "published_date": "2022-08-30",
+        "page_count": 792,
+        "language": "English",
+    },
+    {
+        "id": 4,
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "publisher": "No Starch Press",
+        "published_date": "2021-05-03",
+        "page_count": 544,
+        "language": "English",
+    },
+    {
+        "id": 5,
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "publisher": "Addison-Wesley",
+        "published_date": "2020-03-01",
+        "page_count": 256,
+        "language": "English",
+    }
+]
