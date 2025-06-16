@@ -18,17 +18,20 @@ All operations are performed on a static in-memory list located in `book_data.py
 
 ## 📁 Project Structure
 
+```
 FASTAPI_POS/
-├── env/ # Virtual environment (ignored in .gitignore)
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
+├── env/                   # Virtual environment (ignored in .gitignore)
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
 └── src/
-├── init.py # Main FastAPI app with routing setup
-└── books/
-├── init.py
-├── book_data.py # Sample book list (5 books)
-├── routes.py # API routes for books
-└── schemas.py # Request/response models using Pydantic
+    ├── __init__.py        # Main FastAPI app with routing setup
+    └── books/
+        ├── __init__.py
+        ├── book_data.py   # Sample book list (5 books)
+        ├── routes.py      # API routes for books
+        └── schemas.py     # Request/response models using Pydantic
+```
+
 
 ---
 
