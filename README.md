@@ -56,8 +56,8 @@ FASTAPI_POS/
 Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/fastapi-bookly.git](https://github.com/your-username/fastapi-bookly.git)
-cd fastapi-bookly
+git clone [https://github.com/your-username/FASTAPI_BOOK_PROJ.git]
+cd FASTAPI_BOOK_PROJ
 ```
 
 Create virtual environment:
